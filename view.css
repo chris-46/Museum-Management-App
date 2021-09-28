@@ -1,0 +1,116 @@
+.header {
+    text-align: center;
+    background: #d9b382;
+    color: white;
+    font-size: 50px;
+    margin: -10px;
+    padding: 20px;
+  }
+ 
+.mybutton{
+    text-align: center;
+    
+}
+
+.button1 {
+    
+    background-color: #9d6318; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+
+    width: 50%;
+    height: 20%;
+    
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+    position:absolute;
+    top:20%;
+    left:25%;
+  }
+
+.button2 {
+    
+    background-color: #9d6318; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+
+    
+    width: 50%;
+    height: 20%;
+    
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+    position:absolute;
+    top:45%;
+    left:25%;
+  }
+
+  .button3 {
+    
+    background-color: #9d6318; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+
+    
+    width: 50%;
+    height: 20%;
+    
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+    position:absolute;
+    top:70%;
+    left:25%;
+  }
+
+  .button4 {
+    
+    background-color: #9d6318; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+
+    
+    width: 50%;
+    height: 20%;
+    
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+    position:absolute;
+    top:95%;
+    left:25%;
+  }
