@@ -16,7 +16,7 @@ The Museum Management App is designed to streamline the operations and visitor m
 
 ## Technologies Used
 
-- **Backend**: PHP
+- **Backend**: PHP is used on the backend to handle server-side logic, database operations, and ensure dynamic content generation in the museum management application.
 - **Frontend**: CSS for styling
 
 ## Database Schema
